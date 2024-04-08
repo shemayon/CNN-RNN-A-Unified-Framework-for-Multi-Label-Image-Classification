@@ -1,4 +1,4 @@
-# CNN-RNN-A-Unified-Framework-for-Multi-Label-Image-Classification
+# CNN-RNN: A Unified Framework for Multi Label Image Classification
 
 Real-world images often have multiple labels, representing various objects, scenes, actions, and attributes. While single-label image classification with Convolutional Neural Networks (CNNs) has seen success, traditional methods for multi-label classification lack explicit handling of label dependencies.
 
@@ -21,11 +21,6 @@ To run the code, you need to install the following dependencies:
 - scikit-image 0.16.2 or higher
 - scipy 1.5.2 or higher
 - nltk 3.4.5 or higher
-
-You can install the dependencies using pip:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ## Data
