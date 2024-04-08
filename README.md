@@ -6,9 +6,12 @@ This project introduces a CNN-RNN framework to address this gap. By combining CN
 
 Experimental results on benchmark datasets demonstrate that our CNN-RNN framework achieves superior performance compared to existing models in multi-label image classification.
 
+![image](https://github.com/shemayon/CNN-RNN-A-Unified-Framework-for-Multi-Label-Image-Classification/assets/83706692/8bad9906-c8d9-4a43-bf98-89a5e92144b4)
+
 
 ```markdown
-This repository contains the source code for a CNN-RNN model for multi-label image classification. It's important to note that the model is not generating captions, but rather predicting labels for a given image.
+This repository contains the source code for a CNN-RNN model for multi-label image classification.
+It's important to note that the model is not generating captions, but rather predicting labels for a given image.
 
 ## Requirements
 
@@ -48,6 +51,7 @@ python train.py --image_path data/images/img.jpg --vocab_path data/vocab.pkl --b
 ## Results
 
 The results of the evaluation are printed to the console and saved to a log file.
+![image](https://github.com/shemayon/CNN-RNN-A-Unified-Framework-for-Multi-Label-Image-Classification/assets/83706692/e6fe9b99-4d10-48af-b272-5bedaa8444ef)
 
 
 
