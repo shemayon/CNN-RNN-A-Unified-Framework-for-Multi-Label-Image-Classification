@@ -22,7 +22,7 @@ The model consists of three main components:
 2. **Feature Projection**: Maps CNN features to a shared embedding space
 3. **RNN Decoder**: Processes label sequences to model dependencies and generate predictions
 
-![image](https://github.com/shemayon/CNN-RNN-A-Unified-Framework-for-Multi-Label-Image-Classification/architecture)
+![image](https://github.com/shemayon/CNN-RNN-A-Unified-Framework-for-Multi-Label-Image-Classification/blob/main/architecture.png)
 
 ### Key Interactions:
 
